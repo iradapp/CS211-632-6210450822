@@ -1,1 +1,5 @@
-kuku
+<<<<<<< HEAD
+lala
+=======
+lala
+>>>>>>> master1
